@@ -38,8 +38,39 @@ Some changes do not require a community discussion:
 - Propose a blog post for R-Ladies website.
 - Volunteer for being part of the Global Team.
 
+## What the process is
 
-
-
-
-
+1. The Leadership Team will create an issue with the topic for discussion and will tagget 'soliciting feedback'.
+2. This issue will have:
+    * One-line summary (the title of the issue).
+    * the full text of the proposal.
+    * any required background information.
+    * pros and cons.
+    * possible alternatives.
+    * budget and staffing (if needed).
+    * Responsable moderator.
+3. The discussion period start. The period will last one month. 
+4. We advertised widely for participation. 
+4. All members of R-Ladies can participate in the discussion. 
+5. Our CoC applied to this discussion.
+6. The discussion will be moderated.
+7. you can contact the moderator for help.  Moderator can post on 
+your behalf or can teach you how to do the comments in case you:
+  - don't know how to use github issues or 
+  - you don't want to create a GitHub account or
+  - you want to give your comment anonymously
+8. Share and make all the point you considerr relevant and important for the discussion.  
+__We will not take into account something that wasn't discussed when making the finald decision__. 
+This ensure transparency and the chance to share and discuss different point of view.
+8. Reaching the month the moderator will propose a "motion for final comment period".
+9. This motion for final comment period (FCP) will provide a summary comment trying to lay out 
+the current state of the discussion and major tradeoffs/points of disagreement. Will also change the tag to 'final comment period'.
+10. The final comment period lasts 10 calendar days. It is also advertised widely. This way all stakeholders have a chance to lodge 
+any final objections before a decision is reached.
+11. If substantial new arguments or ideas are raised during this final comment period, the FCP is canceled, 
+and the request for feedback issue goes back into development mode.
+12. When this period finalize, the issue will be tag as 'Leadership Agenda'.
+13. The Leadership Team will have the final discussion and decision over the topic in the next monthly meeting
+of the board of director.
+14. The Leadership Team will report back with the motion and decision made and 
+close the issue as 'completed'.
