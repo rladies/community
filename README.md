@@ -62,15 +62,15 @@ your behalf or can teach you how to do the comments in case you:
 8. Share and make all the point you considerr relevant and important for the discussion.  
 __We will not take into account something that wasn't discussed when making the finald decision__. 
 This ensure transparency and the chance to share and discuss different point of view.
-8. Reaching the month the moderator will propose a "motion for final comment period".
-9. This motion for final comment period (FCP) will provide a summary comment trying to lay out 
+9. Reaching the month the moderator will propose a "motion for final comment period".
+10. This motion for final comment period (FCP) will provide a summary comment trying to lay out 
 the current state of the discussion and major tradeoffs/points of disagreement. Will also change the tag to 'final comment period'.
-10. The final comment period lasts 10 calendar days. It is also advertised widely. This way all stakeholders have a chance to lodge 
+11. The final comment period lasts 10 calendar days. It is also advertised widely. This way all stakeholders have a chance to lodge 
 any final objections before a decision is reached.
-11. If substantial new arguments or ideas are raised during this final comment period, the FCP is canceled, 
+12. If substantial new arguments or ideas are raised during this final comment period, the FCP is canceled, 
 and the request for feedback issue goes back into development mode.
-12. When this period finalize, the issue will be tag as 'Leadership Agenda'.
-13. The Leadership Team will have the final discussion and decision over the topic in the next monthly meeting
+13. When this period finalize, the issue will be tag as 'Leadership Agenda'.
+14. The Leadership Team will have the final discussion and decision over the topic in the next monthly meeting
 of the board of director.
-14. The Leadership Team will report back with the motion and decision made and 
+15. The Leadership Team will report back with the motion and decision made and 
 close the issue as 'completed'.
