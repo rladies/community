@@ -69,7 +69,7 @@ the current state of the discussion and major tradeoffs/points of disagreement. 
 any final objections before a decision is reached.
 12. If substantial new arguments or ideas are raised during this final comment period, the FCP is canceled, 
 and the request for feedback issue goes back into development mode.
-13. When this period finalizes, the issue will be tag as 'Leadership Agenda'.
+13. When this period finalizes, the issue will be tagged as 'Leadership Agenda'.
 14. The Leadership Team will have the final discussion and decision over the topic in the next monthly meeting
 of the board of director.
 15. The Leadership Team will report back with the motion and decision made and 
