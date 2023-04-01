@@ -39,6 +39,12 @@ We are open to suggestions.
 We value the community's feedback on this discussion. Please see the Readme on the 
 community repository for the full discussion procedure.
 
+Please do not invite contributors to this discussion on social media. The intent
+is for this discussion to be open only to current or potential members of the 
+R-Ladies community. You are welcome to invite contributors via direct messages, 
+email, slack, etc.
+
+
 # Moderators
 
 Shannon Pileggi and ...
