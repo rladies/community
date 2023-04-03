@@ -15,7 +15,7 @@ is meant to encompass minority genders that do not relate to the term "R-Ladies"
 
 * From a chapter organizer: _We had a couple of people who were non-binary/gender diverse and did not feel comfortable being a presenter due to our name R-Ladies._
 
-* From a mastodon comment: _I'm still trying to make up my mind on whether to get in touch with the #RLadies community. If someone called me a lady I would laugh, but it seems to be inclusive?_
+* From a social media comment: _I'm still trying to make up my mind on whether to get in touch with the #RLadies community. If someone called me a lady I would laugh, but it seems to be inclusive?_
 
 ## Pros 
 
