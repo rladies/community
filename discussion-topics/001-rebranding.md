@@ -23,12 +23,17 @@ Minority genders could feel more comfortable joining and participating in the co
 
 ## Cons
 
+R-Ladies as a brand is widely known and recognized; changing the brand could
+cause confusion or limit searchability.
+
 The name of our legal entity "R-Ladies Global" would not change. Similarly, handles for
 already established social media accounts like `@RLadiesGlobal` on Twitter would not change.
+
 However, labeling text could be updated to reflect "R-Ladies+ Global". New social
 media accounts would have to consider whether the handle should include the `+` or not
-in the handle, if it is an allowable character. Discrepancies between handles and branding
-across multiple platforms could cause confusion.
+in the handle, if it is an allowable character. 
+
+Discrepancies between handles and branding across multiple platforms could cause confusion.
 
 ## Possible Alternatives
 
