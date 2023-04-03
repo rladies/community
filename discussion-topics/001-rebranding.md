@@ -28,7 +28,7 @@ already established social media accounts like `@RLadiesGlobal` on Twitter would
 However, labeling text could be updated to reflect "R-Ladies+ Global". New social
 media accounts would have to consider whether the handle should include the `+` or not
 in the handle, if it is an allowable character. Discrepancies between handles and branding
-across multiple could cause confusion.
+across multiple platforms could cause confusion.
 
 ## Possible Alternatives
 
