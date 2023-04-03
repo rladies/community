@@ -41,7 +41,11 @@ We are open to suggestions.
 
 ## Procedure
 
-We value the community's feedback on this discussion. Please see the [Readme on the 
+We value the community's feedback on this discussion. Specifically, we would like
+to know if you are in favor of, against, or not sure about this proposal. 
+We would also like to hear the reasons behind your stance.
+
+Please see the [Readme on the 
 community repository](https://github.com/rladies/community#community-discussions) for the full discussion procedure.
 
 Please do not invite contributors to this discussion on social media. The intent
