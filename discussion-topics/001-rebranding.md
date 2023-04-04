@@ -39,14 +39,15 @@ Discrepancies between handles and branding across multiple platforms could cause
 
 We are open to suggestions.
 
-## Procedure
+## Contributing to the Discussion
 
 We value the community's feedback on this discussion. Specifically, we would like
 to know if you are in favor of, against, or not sure about this proposal. 
 We would also like to hear the reasons behind your stance.
 
-Please see the [Readme on the 
-community repository](https://github.com/rladies/community#community-discussions) for the full discussion procedure.
+To ensure a valuable and participatory discussion, we ask that you read the 
+complete discussion procedure at the [Readme on this 
+community repository](https://github.com/rladies/community#community-discussions).
 
 Please do not invite contributors to this discussion on social media. The intent
 is for this discussion to be open to only current or potential members of the 
