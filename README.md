@@ -41,7 +41,7 @@ Some changes do not require a community discussion, for example:
 
 ## Process for community discussions
 
-1. The Leadership Team will create a discussion with a focused topic and will tag it `soliciting feedback`.
+1. The Leadership Team will create an issue discussion with a focused topic and will tag it `soliciting feedback`.
 
 2. This issue will have:
     * one-line summary (the title of the discussion).
