@@ -27,7 +27,7 @@ R-Ladies as a brand is widely known and recognized; changing the brand could
 cause confusion or limit searchability.
 
 The name of our legal entity "R-Ladies Global" would not change. Similarly, handles for
-already established social media accounts like `@RLadiesGlobal` on Twitter would not change.
+already established social media accounts likely would not change.
 
 However, labeling text could be updated to reflect "R-Ladies+ Global". New social
 media accounts would have to consider whether the handle should include the `+` or not
@@ -35,9 +35,15 @@ in the handle, if it is an allowable character.
 
 Discrepancies between handles and branding across multiple platforms could cause confusion.
 
+In addition, in some countries being a minority gender is deemed illegal - a global
+overview of this is available at <https://database.ilga.org/en>. In those countries,
+hosting an event branded as R-Ladies+ could pose a risk to the event organizers and attendees
+for persecution.
+
+
 ## Possible Alternatives
 
-We are open to suggestions.
+Alternative suggestions are welcome and encouraged.
 
 ## Contributing to the Discussion
 
@@ -57,7 +63,7 @@ email, slack, etc.
 
 ## Moderators
 
-Shannon Pileggi and ...
+To identify: at least two people from global team/community.
 
 
 
