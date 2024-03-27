@@ -58,9 +58,10 @@ Some changes do not require a community discussion, for example:
 emailing R-Ladies chapters. We will request that R-Ladies chapters share this notice
 to their community members.
 
-4. All current members of R-Ladies or individauls considering joining R-Ladies can participate in the discussion. 
+4. All current members of R-Ladies or individuals considering joining R-Ladies can participate in the discussion. This means you do not have to be
+chapter organizer or member of the global team to contribute; we welcome and encourage discussion from the entire community.
 
-5. Moderator(s) will monitor to the discussion to ensure the 
+6. Moderator(s) will monitor to the discussion to ensure the 
 [R-Ladies Code of Conduct](https://www.rladies.org/coc/#:~:text=R%2DLadies%20is%20dedicated%20to,lists%2C%20both%20online%20and%20offline) is being followed. Any posts not adhering to the Code of Conduct will be
 removed.
 
