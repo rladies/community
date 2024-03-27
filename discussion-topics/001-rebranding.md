@@ -23,8 +23,17 @@ Minority genders could feel more comfortable joining and participating in the co
 
 ## Cons
 
+In some countries being a minority gender is deemed illegal - a global
+overview of this is available at <https://database.ilga.org/en>. In those countries,
+hosting an event branded as R-Ladies+ could pose a risk to the event organizers and attendees
+for persecution.
+
 R-Ladies as a brand is widely known and recognized; changing the brand could
-cause confusion or limit searchability.
+cause confusion or limit searchability. Discrepancies between handles and branding
+across multiple platforms could cause confusion.
+
+
+## Other Considerations
 
 The name of our legal entity "R-Ladies Global" would not change. Similarly, handles for
 already established social media accounts likely would not change.
@@ -33,17 +42,15 @@ However, labeling text could be updated to reflect "R-Ladies+ Global". New socia
 media accounts would have to consider whether the handle should include the `+` or not
 in the handle, if it is an allowable character. 
 
-Discrepancies between handles and branding across multiple platforms could cause confusion.
+There could also be a discrepancy between the global labeling and chapter labeling. Would
+chapter social media accounts be re-labeled to R-Ladies+ CITYNAME? Would this be enforced or optional?
 
-In addition, in some countries being a minority gender is deemed illegal - a global
-overview of this is available at <https://database.ilga.org/en>. In those countries,
-hosting an event branded as R-Ladies+ could pose a risk to the event organizers and attendees
-for persecution.
-
+This list of pros, cons, and considerations is not exhaustive. Additional considerations are 
+welcome, encouraged, and valued.
 
 ## Possible Alternatives
 
-Alternative suggestions are welcome and encouraged.
+Alternative suggestions for branding are welcome and encouraged.
 
 ## Contributing to the Discussion
 
