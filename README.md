@@ -62,7 +62,7 @@ to their community members.
 chapter organizer or member of the global team to contribute; we welcome and encourage discussion from the entire community.
 
 6. Moderator(s) will monitor to the discussion to ensure the 
-[R-Ladies Code of Conduct](https://www.rladies.org/coc/#:~:text=R%2DLadies%20is%20dedicated%20to,lists%2C%20both%20online%20and%20offline) is being followed. Any posts not adhering to the Code of Conduct will be removed.
+[R-Ladies Code of Conduct](https://rladies.org/coc/) is being followed. Any posts not adhering to the Code of Conduct will be removed.
 
 7. You may participate by commenting directly on the issue (which requires being signed into a GitHub account).
 
