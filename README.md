@@ -96,3 +96,11 @@ close the issue as `completed`.
 18. The Leadership Team will communicate the result of the discussion on R-Ladies slack and via email
 to R-Ladies chapters. Depending on the scope, a News article on the R-Ladies website and social media postings
 with the action items from the discussion may also be merited.
+
+## Acknowledgement
+
+This process evolved through studying open decision-making methods and engaging with various projects and communities. We drew inspiration from successful practices elsewhere and adapt them for R-Ladies.
+
+We thanks to the projects and communities who generously shared their governance models and processes, allowing us to learn and grow.
+
+As we move forward, we're committed to refining this process further based on feedback from our community members. 
