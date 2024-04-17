@@ -70,7 +70,7 @@ email, slack, etc.
 
 ## Moderators
 
-To identify: at least two people from global team/community.
+The moderators for the discussion are Silvia Canelón (@spcanelon) and Andrea Gomez Vargas (@SoyAndrea).
 
 
 
