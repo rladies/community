@@ -1,11 +1,5 @@
 ## Community discussions
 
-This repository hosts proposals and discussions from the community 
-on different aspects and activities of R-Ladies.
-
-The process of soliciting feedback and comments is intended to provide a consistent 
-and transparent way to make changes in our community in a participatory manner. 
-
 R-Ladies is a global community, which gives us strength and the possibility to create something 
 that goes beyond the sum of its parts, bringing many experiences, points of view, and voices to the debate.
 
@@ -14,10 +8,16 @@ in which different perspectives and priorities are seen as legitimate and valuab
 and through respectful and honest discussion we can find better solutions 
 than if we had optimized only one perspective.
 
-We also acknowledge that discussions may have emotional content, because when we care at 
-any level about what we are discussing, then our emotions may play a role.  
+This repository hosts proposals and discussions from the community 
+on different aspects and activities of R-Ladies.
 
-We want to create a clear, transparent and safe process to have this discussion.
+The process of soliciting feedback and comments is intended to provide a consistent 
+and transparent way to make changes in our community in a participatory manner. 
+
+All of us are passionate about our communities;we acknowledge that discussions may have emotional content, because when we care at 
+any level about what we are discussing, then our emotions must play a role.  
+
+Our goal with this procedure is to create a clear, transparent and safe process to have these discussions.
 
 ## Scope of the community discussions
 
@@ -39,6 +39,8 @@ Some changes do not require a community discussion, for example:
 - Propose a blog post for R-Ladies website.
 - Volunteer to participate in the Global Team.
 
+We acknowledge that these are guidelines, and not clearly defined; ultimately “what constitutes a substantial change” will be a decision made by the Leadership Team and Global Team.    
+
 ## Process for community discussions
 
 1. The Leadership Team will create an issue discussion with a focused topic and will tag it `soliciting feedback`.
@@ -54,15 +56,15 @@ Some changes do not require a community discussion, for example:
     
 3. The discussion period starts. The period will last one month. 
 
-4. We will advertise for participation on by notification on R-Ladies slack and by
-emailing R-Ladies chapters. We will request that R-Ladies chapters share this notice
+4. The Leadership Team will advertise for participation on by notification on R-Ladies slacks and by
+emailing R-Ladies chapters when the issue is created. We will request that R-Ladies chapters organizers share this notice
 to their community members.
 
 4. All current members of R-Ladies or individuals considering joining R-Ladies can participate in the discussion. This means you do not have to be
 chapter organizer or member of the global team to contribute; we welcome and encourage discussion from the entire community.
 
 6. Moderator(s) will monitor to the discussion to ensure the 
-[R-Ladies Code of Conduct](https://rladies.org/coc/) is being followed. Any posts not adhering to the Code of Conduct will be removed.
+[R-Ladies Code of Conduct](https://rladies.org/coc/) is being followed. Any posts not adhering to the Code of Conduct will be removed. Moderator(s) will engage the R-Ladies CoC Team as needed. 
 
 7. You may participate by commenting directly on the issue (which requires being signed into a GitHub account).
 
@@ -74,26 +76,30 @@ chapter organizer or member of the global team to contribute; we welcome and enc
 __We will not take into account something that was not written in the discussion forum when making the final decision__. 
 This ensures transparency and the chance to share and discuss different points of view.
 
-11. Near the conclusion of the discussion period, the month the moderator(s) will propose a motion for final comment period".
+11. Near the conclusion of the discussion period, the month the moderator(s) will propose a motion for "final comment period".
 
 12. This motion for final comment period (FCP) will provide a summary comment trying to lay out 
 the current state of the discussion and major trade offs/points of disagreement. Will also change the tag to `final comment period`.
 
 13. The final comment period lasts 10 calendar days, and will be advertised via slack
-and R-Ladies chapter communications again. At this time, stakeholders have a chance to lodge any final thoughts before a decision is reached.
+and R-Ladies chapter communications again by the Leadership Team. At this time, stakeholders have a chance to lodge any final thoughts before a decision is reached.
 
 14. If substantial new arguments or ideas are raised during this final comment period, the FCP is canceled, 
-and the request for feedback issue goes back into `soliciting feedback` mode.
+and the request for feedback issue goes back into `soliciting feedback` mode for ten more days.
 
-15. When FCP finalizes, the issue will be tagged as `Leadership Agenda`.
+15. The Leadership Team together with the Moderator(s) decide what constitude a "substantial new arguments or ideas". The 10 days extention is a one-time occurrence per discussion.
 
-16. The Leadership Team will review the discussion and come to a consensus on the final decision 
+16. Two days before the ten days extention finished, the the moderator(s) will propose a motion for "final comment period" with the same characteristic states in point 12.  
+
+17. When FCP finalizes, the issue will be tagged as `Leadership Agenda` by the Moderator(s).
+
+18. The Leadership Team will review the discussion and come to a consensus on the final decision 
 about the discussion topic in the next monthly meeting of the board of directors.
 
-17. On GitHub, the Moderator(s) will report back with the motion, the decision made, and 
+19. On GitHub, the Moderator(s) will report back with the motion, the decision made, and 
 close the issue as `completed`.
 
-18. The Leadership Team will communicate the result of the discussion on R-Ladies slack and via email
+20. The Leadership Team will communicate the result of the discussion on R-Ladies slack and via email
 to R-Ladies chapters. Depending on the scope, a News article on the R-Ladies website and social media postings
 with the action items from the discussion may also be merited.
 
