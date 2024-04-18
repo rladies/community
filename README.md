@@ -3,10 +3,10 @@
 R-Ladies is a global community, which gives us strength and the possibility to create something 
 that goes beyond the sum of its parts, bringing many experiences, points of view, and voices to the debate.
 
-We aspire to a positive sum vision. To this end, we aim to create a process of debate 
+We aspire to a positive-sum vision. To this end, we aim to create a process of debate 
 in which different perspectives and priorities are seen as legitimate and valuable, 
 and through respectful and honest discussion we can find better solutions 
-than if we had optimized only one perspective.
+then if we had optimized only one perspective.
 
 This repository hosts proposals and discussions from the community 
 on different aspects and activities of R-Ladies.
@@ -17,11 +17,11 @@ and transparent way to make changes in our community in a participatory manner.
 All of us are passionate about our communities; we acknowledge that discussions may have emotional content, because when we care at 
 any level about what we are discussing, then emotions play a role.  
 
-Our goal with this procedure is to create a clear, transparent and safe process to have these discussions.
+Our goal with this procedure is to create a clear, transparent, and safe process to have these discussions.
 
 ## Scope of the community discussions
 
-The Leadership Team and the Global Team will propose topic for discussion.  
+The Leadership Team and the Global Team will propose topics for discussion.  
 We will follow this process if we intend to make _substantial_ changes to R-Ladies.
 What constitutes a "substantial" change is evolving based on community norms and 
 varies depending on what part you are proposing to change, but may include the following:
@@ -56,9 +56,9 @@ We acknowledge that these are guidelines; ultimately “what constitutes a subst
     
 3. The discussion period starts. The period will last one month. 
 
-4. The Leadership Team will advertise for participation on by notification in the R-Ladies Slack and by
+4. The Leadership Team will advertise for participation by notification in the R-Ladies Slack and by
 emailing R-Ladies chapters when the issue is created. We will request that R-Ladies chapter organizers share this notice
-to their community members.
+with their community members.
 
 4. All current members of R-Ladies or individuals considering joining R-Ladies can participate in the discussion. This means you do not have to be
 chapter organizer or member of the global team to contribute; we welcome and encourage discussion from the entire community.
@@ -76,20 +76,20 @@ chapter organizer or member of the global team to contribute; we welcome and enc
 __We will not take into account something that was not written in the discussion forum when making the final decision__. 
 This ensures transparency and the chance to share and discuss different points of view.
 
-11. Near the conclusion of the discussion period, the month the moderator(s) will propose a motion for "final comment period".
+11. Near the conclusion of the discussion period, the month the moderator(s) will propose a motion for the "final comment period".
 
-12. This motion for final comment period (FCP) will provide a summary comment trying to lay out 
-the current state of the discussion and major trade offs/points of disagreement. Will also change the tag to `final comment period`.
+12. This motion for the final comment period (FCP) will provide a summary comment trying to lay out 
+the current state of the discussion and major trade-offs/points of disagreement. Will also change the tag to `final comment period`.
 
-13. The final comment period lasts 10 calendar days, and will be advertised via slack
+13. The final comment period lasts 10 calendar days and will be advertised via Slack
 and R-Ladies chapter communications again by the Leadership Team. During the final comment period, participants will have a chance to share any final thoughts before the discussion is closed.
 
 14. If substantial new arguments or ideas are raised during this final comment period, the FCP is canceled, 
 and the request for feedback issue goes back into `soliciting feedback` mode for 10 more calendar days.
 
-15. The Leadership Team together with the moderator(s) decide what constitude a "substantial new arguments or ideas". The 10 day extension is a one-time occurrence per discussion.
+15. The Leadership Team together with the moderator(s) decides what constitutes a "substantial new argument or idea". The 10-day extension is a one-time occurrence per discussion.
 
-16. Two days before the 10 day extension is finished, the the moderator(s) will propose a motion for "final comment period" with the same characteristic states in point 12.  
+16. Two days before the 10-day extension is finished, the moderator(s) will propose a motion for a "final comment period" with the same characteristics stated in point 12.  
 
 17. When FCP finalizes, the issue will be tagged as `Leadership Agenda` by the moderator(s).
 
@@ -105,8 +105,8 @@ with the action items from the discussion may also be merited.
 
 ## Acknowledgement
 
-This process evolved through studying open decision-making methods and engaging with various projects and communities. We drew inspiration from successful practices elsewhere and adapt them for R-Ladies.
+This process evolved through studying open decision-making methods and engaging with various projects and communities. We drew inspiration from successful practices elsewhere and adapted them for R-Ladies.
 
-We thanks to the projects and communities who generously shared their governance models and processes, allowing us to learn and grow.
+We thank the projects and communities who generously shared their governance models and processes, allowing us to learn and grow.
 
 As we move forward, we're committed to refining this process further based on feedback from our community members. 
