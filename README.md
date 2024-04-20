@@ -1,21 +1,14 @@
 ## Community discussions
 
-R-Ladies is a global community, which gives us strength and the possibility to create something 
-that goes beyond the sum of its parts, bringing many experiences, points of view, and voices to the debate.
+R-Ladies is a global community, which gives us strength and the possibility to create something that goes beyond the sum of its parts, bringing many experiences, points of view, and voices to the debate.
 
-We aspire to a positive-sum vision. To this end, we aim to create a process of debate 
-in which different perspectives and priorities are seen as legitimate and valuable, 
-and through respectful and honest discussion we can find better solutions 
-then if we had optimized only one perspective.
+We aspire to a positive-sum vision. To this end, we aim to create a process of debate in which different perspectives and priorities are seen as legitimate and valuable, and through respectful and honest discussion we can find better solutions than if we had optimized only one perspective.
 
-This repository hosts proposals and discussions from the community 
-on different aspects and activities of R-Ladies.
+This repository hosts proposals and discussions from the community on different aspects and activities of R-Ladies.
 
-The process of soliciting feedback and comments is intended to provide a consistent 
-and transparent way to make changes in our community in a participatory manner. 
+The process of soliciting feedback and comments is intended to provide a consistent and transparent way to make changes in our community in a participatory manner. 
 
-All of us are passionate about our communities; we acknowledge that discussions may have emotional content, because when we care at 
-any level about what we are discussing, then emotions play a role.  
+All of us are passionate about our communities; we acknowledge that discussions may have emotional content, because when we care at any level about what we are discussing, then emotions play a role.  
 
 Our goal with this procedure is to create a clear, transparent, and safe process to have these discussions.
 
@@ -27,7 +20,7 @@ What constitutes a "substantial" change is evolving based on community norms and
 varies depending on what part you are proposing to change, but may include the following:
 
 - R-Ladies name, mission and vision.
-- R-Ladies rules and guidelines, including governance and code of conduct.
+- R-Ladies rules and guidelines, including governance and code of conduct (CoC).
 - R-Ladies global infrastructure services.
 
 Some changes do not require a community discussion, for example:
@@ -64,25 +57,24 @@ with their community members.
 chapter organizer or member of the global team to contribute; we welcome and encourage discussion from the entire community.
 
 6. Moderator(s) will monitor to the discussion to ensure the 
-[R-Ladies Code of Conduct](https://rladies.org/coc/) (CoC) is being followed. Any posts not adhering to the Code of Conduct will be removed. Moderator(s) will engage the R-Ladies CoC Team as needed. 
+[R-Ladies Code of Conduct](https://rladies.org/coc/) is being followed. Any posts not adhering to the CoC will be removed. Moderator(s) will engage the R-Ladies CoC Team as needed. 
 
 7. You may participate by commenting directly on the issue (which requires being signed into a GitHub account).
 
-8. You may also participate by submitting a comment via the [Submit discussion content form](https://airtable.com/shr7KmgOENIlN5AfJ), either anonymously or named. This option is available for those who do not have a GitHub account or for those who wish to comment anonymously. A moderator will review the submitted comments to ensure they adhere to the Code of Conduct and then subsequently post on your behalf, either anonymously or not as specified.
+8. You may also participate by submitting a comment via the [Submit discussion content form](https://airtable.com/shr7KmgOENIlN5AfJ), either anonymously or named. This option is available for those who do not have a GitHub account or for those who wish to comment anonymously. A moderator will review the submitted comments to ensure they adhere to the Code of Conduct and then subsequently post on your behalf, either anonymously or not as specified. The comment will be posted within seven days. 
 
-9. Please use English as a primary common language for the discussion. You are welcome to use a translation app if needed; it may be helpful to state if a translation app was used for context.
+9. Please use _English_ as a primary common language for the discussion. You are welcome to use a translation app if needed; it may be helpful to state if a translation app was used for context.
 
 10. Share and make all the points you consider relevant and important for the discussion.  
 __We will not take into account something that was not written in the discussion forum when making the final decision__. 
 This ensures transparency and the chance to share and discuss different points of view.
 
-11. Near the conclusion of the discussion period, the month the moderator(s) will propose a motion for the "final comment period".
+11. At the conclusion of the one month discussion period, the moderator(s) will signal via an issue tag that the discussion is now in "final comment period" (FCP).
 
-12. This motion for the final comment period (FCP) will provide a summary comment trying to lay out 
-the current state of the discussion and major trade-offs/points of disagreement. Will also change the tag to `final comment period`.
+12. The moderator(s) will write a motion for the FCP providing a summary comment trying to lay out 
+the current state of the discussion and major trade-offs/points of disagreement.
 
-13. The final comment period lasts 10 calendar days and will be advertised via Slack
-and R-Ladies chapter communications again by the Leadership Team. During the final comment period, participants will have a chance to share any final thoughts before the discussion is closed.
+13. The final comment period lasts 10 calendar days and will be advertised via Slack and R-Ladies chapter communications by the Leadership Team. During the FCP, participants will have a chance to share any final thoughts before the discussion is closed.
 
 14. If substantial new arguments or ideas are raised during this final comment period, the FCP is canceled, 
 and the request for feedback issue goes back into `soliciting feedback` mode for 10 more calendar days.
