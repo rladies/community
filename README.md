@@ -34,6 +34,10 @@ Some changes do not require a community discussion, for example:
 
 We acknowledge that these are guidelines; ultimately “what constitutes a substantial change” will be a decision made by the Leadership Team and Global Team.    
 
+> [!IMPORTANT]  
+> Allies to R-Ladies are welcome to observe the discussion, but are asked to refrain from participating.
+
+
 ## Process for community discussions
 
 1. The Leadership Team will create an issue discussion with a focused topic and will tag it `soliciting feedback`.
