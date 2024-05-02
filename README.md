@@ -65,7 +65,7 @@ chapter organizer or member of the global team to contribute; we welcome and enc
 
 7. You may participate by commenting directly on the issue (which requires being signed into a GitHub account).
 
-8. You may also participate by submitting a comment via the [Submit discussion content form](https://airtable.com/shr7KmgOENIlN5AfJ), either anonymously or named. This option is available for those who do not have a GitHub account or for those who wish to comment anonymously. A moderator will review the submitted comments to ensure they adhere to the Code of Conduct and then subsequently post on your behalf, either anonymously or not as specified. The comment will be posted within seven days. 
+8. You may also participate by submitting a comment via the [Submit discussion content form](https://airtable.com/appkSMV6ogNQi8TFv/pagYt2wKWVw8dno1q/form), either anonymously or named. This option is available for those who do not have a GitHub account or for those who wish to comment anonymously. A moderator will review the submitted comments to ensure they adhere to the Code of Conduct and then subsequently post on your behalf, either anonymously or not as specified. The comment will be posted within seven days. 
 
 9. Please use _English_ as a primary common language for the discussion. You are welcome to use a translation app if needed; it may be helpful to state if a translation app was used for context.
 
