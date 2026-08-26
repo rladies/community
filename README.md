@@ -106,3 +106,9 @@ This process evolved through studying open decision-making methods and engaging 
 We thank the projects and communities who generously shared their governance models and processes, allowing us to learn and grow.
 
 As we move forward, we're committed to refining this process further based on feedback from our community members. 
+
+### Projects We Drew Inspiration From (Non-exhaustive list)
+
+* **[Rust RFC Process](https://github.com/rust-lang/rfcs):** For the structured discussion and Final Comment Period (FCP) model.
+* **[Python Enhancement Proposals (PEP 1)](https://peps.python.org/pep-0001/):** For proposal structuring, including rationale, pros/cons, and alternative solutions.
+* **[Apache Community Decision Making](https://community.apache.org/decisionmaking/):** For guidelines on open, consensus-driven community governance.
